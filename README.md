@@ -2,6 +2,9 @@
 
 A simple python RPG-style game that mainly relies on decisions being typed out in the command line. Also features some GUI elements.
 
+<img width="1440" alt="Screen Shot 2021-07-17 at 3 02 35 PM" src="https://user-images.githubusercontent.com/87033324/126050234-d7860385-9edf-421c-a9c1-e19eeb8ed103.png">
+
+
 ## Game Overview
 
 Simply follow the directions on screen to make decisions and survive. The game is currently in a _very_ beta state and most certainly contains copious amounts of bugs, glitches, and broken features. See below for where you can report said issues.
