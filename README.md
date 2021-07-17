@@ -8,6 +8,12 @@ Simply follow the directions on screen to make decisions and survive. The game s
 
 ## Installation Instructions
 
+### Extra step for Windows Users
+
+The default windows command prompt doesn't support text colours, which are somewhat important. Note that you can execute the game in the standard command prompt without crashes, but some text will have strange formatting and no colour.
+
+To get around this, simply install the [windows terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab) from the Microsoft Store and run all commands from there instead.
+
 ### Installing Python
 
 To run the game, you need python 3 (**not 2**) installed. Simply download the installer for your OS from python.org. Note that most instructions here are for Mac and Windows - if you are using linux I feel safe in assuming you can figure it out.
