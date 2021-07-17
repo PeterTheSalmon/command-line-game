@@ -19,13 +19,16 @@ https://www.python.org/downloads/
 The game is reliant on several third-party python modules. These are completely safe to install; simply run the following lines of code one after another in terminal.
 ```
 python3 -m pip install -U pygame --user
-
+python3 -m pip install colorama
+python3 -m pip install -U deep_translator
 ```
 
-Then, download the .zip from the releases tab, and unzip the folder to a convenient location.
-The unzipped folder, `command-line-game`, will have a folder inside it, also called `command-line-game` . This is the folder you need. Ignore anything/everything else.
+### Running the Game
 
-In the terminal or command prompt, type `python3` followed by a space, and then drag the `command-line-game` folder into the terminal. The path should appear after the `python3` command, as seen in the examples below.
+Download the .zip from the releases tab, and unzip the folder to a convenient location.
+The unzipped folder, `command-line-game`, will contain another folder inside it, also called `command-line-game` . This is the folder you need. Ignore anything/everything else.
+
+In the terminal or command prompt, type `python3` followed by a space, and then drag the `command-line-game` folder into the terminal. It should look something like the examples below.
 
 #### Mac Example
 
