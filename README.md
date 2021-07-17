@@ -17,10 +17,10 @@ https://www.python.org/downloads/
 ### Installing Python Modules
 
 The game is reliant on several third-party python modules. These are completely safe to install; simply run the following lines of code one after another in terminal.
-`
+```
 python3 -m pip install -U pygame --user
 
-`
+```
 
 Then, download the .zip from the releases tab, and unzip the folder to a convenient location.
 The unzipped folder, `command-line-game`, will have a folder inside it, also called `command-line-game` . This is the folder you need. Ignore anything/everything else.
