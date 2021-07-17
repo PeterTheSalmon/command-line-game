@@ -31,7 +31,7 @@ python3 -m pip install -U deep_translator
 
 ### Running the Game
 
-Download the .zip from the releases tab, and unzip the folder to a convenient location.
+Download the .zip from the [releases](https://github.com/PeterTheSalmon/command-line-game/releases) tab, and unzip the folder to a convenient location.
 The unzipped folder, `command-line-game`, will contain another folder inside it, also called `command-line-game` . This is the folder you need. Ignore anything/everything else.
 
 In the terminal or command prompt, type `python3` followed by a space, and then drag the `command-line-game` folder into the terminal. It should look something like the examples below.
