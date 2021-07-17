@@ -4,15 +4,15 @@ A simple python RPG-style game that mainly relies on decisions being typed out i
 
 ## Game Overview
 
-Simply follow the directions on screen to make decisions and survive. The game should be reasonably well explained during your playthrough.
+Simply follow the directions on screen to make decisions and survive. The game is currently in a _very_ beta state and most certainly contains copious amounts of bugs, glitches, and broken features. See below for where you can report said issues.
 
 ## Installation Instructions
 
 ### Extra step for Windows Users
 
-The default windows command prompt doesn't support text colours, which are somewhat important. Note that you can execute the game in the standard command prompt without crashes, but some text will have strange formatting and no colour.
+The default windows command prompt doesn't support text colours, which are somewhat important. Note that you _technically_ can execute the game in the standard command prompt without crashes, but some text will have strange formatting and no colour.
 
-To get around this, simply install the [windows terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab) from the Microsoft Store and run all commands from there instead.
+To get around this, simply install the [windows terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab) from the Microsoft Store and run all commands from there instead. 
 
 ### Installing Python
 
@@ -45,3 +45,7 @@ In the terminal or command prompt, type `python3` followed by a space, and then 
 `python3 C:\Users\peterthesalmon\Downloads\command-line-game\command-line-game`
 
 Simply hit enter and the game will begin.
+
+## Bugs, Crashes, Questions, Support, Guides
+
+All questions, bug reports, and crashes can be addresed in the Discord Server (coming soon)!
