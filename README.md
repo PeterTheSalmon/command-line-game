@@ -31,7 +31,7 @@ python3 -m pip install -U deep_translator
 
 ## Running the Game
 
-Download the .zip from the [releases](https://github.com/PeterTheSalmon/command-line-game/releases) tab, and unzip the folder to a convenient location.
+First, download the latest .zip from the [releases](https://github.com/PeterTheSalmon/command-line-game/releases) tab, and unzip the folder to a convenient location.
 
 ### Mac Instructions
 
